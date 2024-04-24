@@ -1,2 +1,2 @@
-# tbd-api-consumer 🧪
+# tbd-api-consumer 
 Api consumer of the tbd-api-demo repo
